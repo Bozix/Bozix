@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bozix
 - 👀 I’m interested in computers, cybersecurity, web, cats and travels.
-- 🌱 I’m currently learning Golang.
+- 🌱 I’m currently learning Python, network fundamentals.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 You can reach me via matic.bozix@gmail.com
 
