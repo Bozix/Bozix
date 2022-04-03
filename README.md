@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bozix
+- 👋 Hi, I’m @NekoTiz
 - 👀 I’m interested in computers, cybersecurity, web, fintech, cats and travels.
 - 🌱 I’m currently learning Python, network fundamentals.
 - 💞️ I’m looking to collaborate on open source projects.
