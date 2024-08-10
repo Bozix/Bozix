@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Mut1x
 - 👀 I’m interested in computers, cybersecurity, web, fintech, cats and travels.
-- 💞️ I'm here to improve my tech skills
